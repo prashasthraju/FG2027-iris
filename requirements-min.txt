@@ -1,0 +1,7 @@
+# Tier 0 and Tier 1 (protocol tests, metric recomputation, regeneration of the paper's numbers). Pinned to the versions used for the paper.
+numpy==2.3.3
+scipy==1.16.2
+scikit-learn==1.7.2
+eth-account==0.14.0
+eth-utils==6.0.0
+pytest

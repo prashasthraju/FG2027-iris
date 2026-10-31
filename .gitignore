@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+.venv/
+data/
+external/
+dbs/
+samples/
+outputs/proxy_attr/
+outputs/watermark_study/videos/
+outputs/watermark_study/cache/
+chain/
+third_party/
